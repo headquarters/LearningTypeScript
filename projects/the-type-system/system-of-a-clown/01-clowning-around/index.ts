@@ -15,7 +15,7 @@ while (true) {
 			break;
 		case 1:
 			activity = "face painting";
-			capacity = "1";
+			capacity = 1;
 			requiresSupplies = true;
 			break;
 		case 2:
