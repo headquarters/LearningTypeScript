@@ -1,5 +1,7 @@
 // Write your types here! ✨
 
+console.log("Nope, this needed more instructions.");
+
 let current = {
 	name: "Woesong Bridge",
 	proximity: 100,
